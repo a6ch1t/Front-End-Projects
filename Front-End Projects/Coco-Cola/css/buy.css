@@ -1,0 +1,92 @@
+#heading {
+  color: red;
+  font-weight: 900;
+}
+#nav-bar {
+  font-weight: 700;
+  color: black;
+}
+#Products {
+  background-color: red;
+  height: 650px;
+  width: 1530px;
+}
+
+#Products1 {
+  background-color: red;
+  height: 800px;
+  width: 1530px;
+}
+
+.col {
+  float: left;
+  padding: 30px;
+  margin-top: 90px;
+}
+#bottle1 {
+  margin-left: 50px;
+  border-radius: 20px;
+  margin-top: 100px;
+}
+.col {
+  transition: transform .1s; 
+}
+.col:hover {
+  transform: scale(1.5);
+}
+#bottle2 {
+  margin-left: 100px;
+  border-radius: 20px;
+  margin-top: 100px;
+}
+
+#bottle3 {
+  margin-left: 70px;
+  border-radius: 20px;
+  margin-top: 100px;
+}
+#bottle4 {
+  margin-left: 130px;
+  border-radius: 20px;
+  margin-top: 100px;
+}
+h5 {
+  color: black;
+}
+#coco {
+  font-weight: 800;
+  margin-left: 180px;
+  margin-top: 15px;
+}
+
+#carb {
+  margin-left: 200px;
+  font-weight: 800;
+  margin-top: 15px;
+}
+#mini{
+  margin-left: 200px;
+  font-weight: 800;
+  margin-top: 15px;
+}
+#can{
+  margin-left: 160px;
+  font-weight: 800;
+  margin-top: 15px;
+}
+p {
+  font-weight: 700;
+  color: black;
+}
+#c40 {
+  margin-left: 220px;
+}
+#c25 {
+  margin-left: 300px;
+}
+#c38{
+  margin-left: 220px;
+}
+#c20{
+  margin-left: 300px;
+}
